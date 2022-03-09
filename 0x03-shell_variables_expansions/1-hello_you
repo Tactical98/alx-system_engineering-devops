@@ -1,2 +1,4 @@
 #!/bib/bash
 "hello $USER"
+#!/bin/bash
+"hello $USER"
