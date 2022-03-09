@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $((`echo $PAT grep -o ":/" | wc -l`.
